@@ -179,4 +179,5 @@ Access the Grafana UI at `http://<grafana-ec2-ip>:3000`. Add Prometheus as a dat
 
 ## 🎬 Demo
 A demo video showcasing the project workflow is available here:
-[**Watch Project Demo**](https://drive.google.com/file/d/1Y40cqSpgU7lBtoBCWcZZtTtaXM1H0hFg/view?usp=drive_link)
+[**Watch Project Demo**](https://drive.google.com/file/d/1Y40cqSpgU7lBtoBCWcZZtTtaXM1H0hFg/view?usp=sharing)
+
